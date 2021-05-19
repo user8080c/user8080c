@@ -1,4 +1,4 @@
-# Hey Guys 👋�  
+# Hey Guys 👋
 
 # <div align="center">I'm Eduardo, a Network and Telecommunications Engineering Student 📡</div>  
   
