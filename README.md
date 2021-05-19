@@ -26,9 +26,8 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://icon-icons.com/es/icono/c%C3%B3digo-linux-os/85584)
+![alt text](https://cdn.iconscout.com/icon/free/png-256/linux-3049927-2538320.png)
 
 <br/>
-
----
 
 [linkedin]: https://www.linkedin.com/in/eduardopino/
