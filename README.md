@@ -1,9 +1,9 @@
 # Hey Guys 👋
 
-# <div align="center">I'm Eduardo, a Network and Telecommunications Engineering Student 📡</div>  
+# <div align="center">I'm Eduardo, a Network and Telecommunications Engineering 📡</div>  
   
 
-- 🌱 I’m currently learning Data Science.  
+- 🌱 Learning Data Science.  
  
 - 🏐 Volleyball and Cybersecurity enthusiast  
   
