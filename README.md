@@ -1,6 +1,6 @@
 # Hey Guys 👋
 
-# <div align="center">I'm Eduardo, a Network and Telecommunications Engineering 📡</div>  
+# <div align="center">I'm Eduardo, a Network and Telecommunications Engineer 📡</div>  
   
 
 - 🌱 Learning Data Science.  
